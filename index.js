@@ -17,4 +17,5 @@ function wrapAdjective(string ="*"){
  
     }
 }
-console.log( wrapAdjective("||"));
+// const encouragingPromptFunction = wrapAdjective("!!!");
+console.log(wrapAdjective("!!!")("a dedicated programmer")); 
